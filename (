@@ -1,0 +1,91 @@
+[90m= [39m[
+    "[34mcustomer[39m" => [
+      "[34mside[39m" => "[32mnone[39m",
+      "[34mdetails[39m" => [
+        "[34mcompany[39m" => "[32mAccess Logistic GmbH[39m",
+        "[34mstreet_address[39m" => "[32mAmerling 130[39m",
+        "[34mcity[39m" => "[32mKramsach[39m",
+        "[34mpostal_code[39m" => "[32m6233[39m",
+        "[34mcountry[39m" => "[32mAT[39m",
+        "[34mvat_code[39m" => "[32mATU74076812[39m",
+        "[34mcontact_person[39m" => "[32mLaura Brunner[39m",
+      ],
+    ],
+    "[34mloading_locations[39m" => [
+      [
+        "[34mcompany_address[39m" => [
+          "[34mcompany[39m" => "[32mTXT International Road SL[39m",
+          "[34mtitle[39m" => "[32mTXT International Road SL[39m",
+          "[34mstreet_address[39m" => "[32mMas de Baló 3 Parcela 9[39m",
+          "[34mcity[39m" => "[32mRibarroja del Turia[39m",
+          "[34mpostal_code[39m" => "[32m46190[39m",
+          "[34mcountry[39m" => "[32mES[39m",
+        ],
+        "[34mtime[39m" => [
+          "[34mdatetime_from[39m" => "[32m2025-02-11T00:00:00.000000Z[39m",
+        ],
+      ],
+    ],
+    "[34mdestination_locations[39m" => [
+      [
+        "[34mcompany_address[39m" => [
+          "[34mcompany[39m" => "[32mRogerville Entrepot Manutention[39m",
+          "[34mtitle[39m" => "[32mRogerville Entrepot Manutention[39m",
+          "[34mstreet_address[39m" => "[32mShipment 36576[39m",
+          "[34mcity[39m" => "[32mRogerville[39m",
+          "[34mpostal_code[39m" => "[32m76700[39m",
+          "[34mcountry[39m" => "[32mFR[39m",
+        ],
+        "[34mtime[39m" => [
+          "[34mdatetime_from[39m" => "[32m2025-02-14T08:00:00.000000Z[39m",
+          "[34mdatetime_to[39m" => "[32m2025-02-14T16:45:00.000000Z[39m",
+        ],
+      ],
+      [
+        "[34mcompany_address[39m" => [
+          "[34mcompany[39m" => "[32mBolloré Logistique[39m",
+          "[34mtitle[39m" => "[32mBolloré Logistique[39m",
+          "[34mstreet_address[39m" => "[32mRoute des Caraïbes 5845[39m",
+          "[34mcity[39m" => "[32mLoon-Plage[39m",
+          "[34mpostal_code[39m" => "[32m59279[39m",
+          "[34mcountry[39m" => "[32mFR[39m",
+        ],
+        "[34mtime[39m" => [
+          "[34mdatetime_from[39m" => "[32m2025-02-14T08:00:00.000000Z[39m",
+          "[34mdatetime_to[39m" => "[32m2025-02-14T16:00:00.000000Z[39m",
+        ],
+      ],
+      [
+        "[34mcompany_address[39m" => [
+          "[34mcompany[39m" => "[32mWidem Logistics Nv[39m",
+          "[34mtitle[39m" => "[32mWidem Logistics Nv[39m",
+          "[34mstreet_address[39m" => "[32mNV E30 Lar E30,[39m",
+          "[34mcity[39m" => "[32mMenen[39m",
+          "[34mpostal_code[39m" => "[32m8930[39m",
+          "[34mcountry[39m" => "[32mBE[39m",
+        ],
+        "[34mtime[39m" => [
+          "[34mdatetime_from[39m" => "[32m2025-02-14T08:30:00.000000Z[39m",
+          "[34mdatetime_to[39m" => "[32m2025-02-14T17:00:00.000000Z[39m",
+        ],
+      ],
+    ],
+    "[34mattachment_filenames[39m" => [
+      "[32maccesspdfassistant_1.pdf[39m",
+    ],
+    "[34mcargos[39m" => [
+      [
+        "[34mtitle[39m" => "[32mHandelswaren[39m",
+        "[34mnumber[39m" => "[32mHolanda , Shipment 36576 , access[39m",
+        "[34mpackage_count[39m" => [33m27.0[39m,
+        "[34mpackage_type[39m" => "[32mpallet[39m",
+        "[34mldm[39m" => [33m0.0[39m,
+        "[34mweight[39m" => [33m24500.0[39m,
+      ],
+    ],
+    "[34morder_reference[39m" => "[32mF202503136[39m",
+    "[34mtransport_numbers[39m" => "[32mLTP274 / OH211[39m",
+    "[34mfreight_price[39m" => [33m2114.2[39m,
+    "[34mfreight_currency[39m" => "[32mEUR[39m",
+  ]
+
