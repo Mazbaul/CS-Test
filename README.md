@@ -59,3 +59,6 @@ thrown.
  - use `uncomma()` to deal with numbers that may use a decimal comma (see `app/Helpers/Helper.php`)
 
  - use `App\GeonamesCountry::getIso()` to convert country names to ISO codes
+
+----
+process_pdf(storage_path('pdf_client_test/AccessPdfAssistant_1.pdf'));
