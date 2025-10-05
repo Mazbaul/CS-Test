@@ -22,7 +22,7 @@ class PdfReadMazba extends PdfClient
         return false;
     }
 
-      public function processLines(array $lines): array
+    public function processLines(array $lines, ?string $attachment_filename = null): array
     {
         $data = [
             'order_number' => null,
