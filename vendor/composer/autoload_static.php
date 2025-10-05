@@ -564,6 +564,7 @@ class ComposerStaticInit72d222e6638ddc48c2cf57c74053e7d9
         'App\\Assistants\\AutoPdfAssistant' => __DIR__ . '/../..' . '/app/Assistants/AutoPdfAssistant.php',
         'App\\Assistants\\DelamodePdfAssistant' => __DIR__ . '/../..' . '/app/Assistants/DelamodePdfAssistant.php',
         'App\\Assistants\\PdfClient' => __DIR__ . '/../..' . '/app/Assistants/PdfClient.php',
+        'App\\Assistants\\PdfReadMazba' => __DIR__ . '/../..' . '/app/Assistants/PdfReadMazba.php',
         'App\\Assistants\\SkodaPdfAssistant' => __DIR__ . '/../..' . '/app/Assistants/SkodaPdfAssistant.php',
         'App\\Console\\Kernel' => __DIR__ . '/../..' . '/app/Console/Kernel.php',
         'App\\Exceptions\\Handler' => __DIR__ . '/../..' . '/app/Exceptions/Handler.php',

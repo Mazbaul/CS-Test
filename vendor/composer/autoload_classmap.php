@@ -10,6 +10,7 @@ return array(
     'App\\Assistants\\AutoPdfAssistant' => $baseDir . '/app/Assistants/AutoPdfAssistant.php',
     'App\\Assistants\\DelamodePdfAssistant' => $baseDir . '/app/Assistants/DelamodePdfAssistant.php',
     'App\\Assistants\\PdfClient' => $baseDir . '/app/Assistants/PdfClient.php',
+    'App\\Assistants\\PdfReadMazba' => $baseDir . '/app/Assistants/PdfReadMazba.php',
     'App\\Assistants\\SkodaPdfAssistant' => $baseDir . '/app/Assistants/SkodaPdfAssistant.php',
     'App\\Console\\Kernel' => $baseDir . '/app/Console/Kernel.php',
     'App\\Exceptions\\Handler' => $baseDir . '/app/Exceptions/Handler.php',
