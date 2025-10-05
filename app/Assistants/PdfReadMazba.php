@@ -15,7 +15,7 @@ class PdfReadMazba extends PdfClient
     {
         // For example: check if a certain keyword always appears in this format
         foreach ($lines as $line) {
-            if (Str::contains($line, 'Example Transport Document')) {
+            if (Str::contains($line, 'TRANSALLIANCE TS LTD')) {
                 return true;
             }
         }
